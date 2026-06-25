@@ -99,4 +99,4 @@ npm run build
 
 ## Author
 
-Vishnu Vardhan Reddy
+Vishnu
