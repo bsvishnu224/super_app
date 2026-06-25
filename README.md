@@ -90,6 +90,9 @@ VITE_WEATHER_API_KEY=your_weather_api_key
 VITE_NEWS_API_KEY=your_news_api_key
 VITE_MOVIES_API_KEY=your_omdb_api_key
 ```
+## Note
+
+The News widget uses NewsAPI. Due to the limitations of the free Developer plan, news data is available only in local development (`localhost`) and may not work on the deployed Vercel application.
 
 ## Build
 
@@ -99,4 +102,4 @@ npm run build
 
 ## Author
 
-Vishnu
+Vishnu 
