@@ -75,7 +75,7 @@ A responsive React application that combines multiple mini applications into a s
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/bsvishnu224/super_app.git
 cd super-app
 npm install
 npm run dev
